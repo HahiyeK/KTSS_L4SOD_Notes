@@ -1,0 +1,15 @@
+1. https://github.com/layj4155/
+2. Download the repository called "StudentRegistration" az zip file 
+
+3. Navigate to the download folder and unzip the file
+
+4. Open that folder in VS Code
+5. Install postman and create an account on postman 
+
+
+6. npm install express body-parser
+
+
+7. {"name":"John Doe","email":"john@example.com"}
+
+8.  http://localhost:3000/
